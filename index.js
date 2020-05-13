@@ -36,3 +36,5 @@ document.querySelectorAll('[tab]').forEach(tab => {
         }
     });
 });
+
+console.log(!working)

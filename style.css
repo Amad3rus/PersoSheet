@@ -1,0 +1,471 @@
+/* LINKS */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/* LINKS END */
+
+/* SITE BODY */
+
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  background: #1D1D22;
+}
+img, i{
+  -webkit-user-select: none;
+  user-select: none;
+}
+/* SITE BODY END */
+
+/* STATUSBAR */
+
+.containerStatus .statusBar {
+  background: #131417;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.containerStatus .statusBar i {
+  position: relative;
+  color: white;
+  left: 10px;
+  top: 13px;
+  font-size: 40px;
+}
+
+/* STATUS BAR END */
+
+/* PROFILE CARD */
+.containerCard{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.containerCard .profile-card {
+  width:100%;
+  max-width: 600px;
+  left: 11px;
+  top: 11px;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 0 10px #00000070;
+}
+
+/* PROFILE CARD END */
+
+/* DIV ALTA */
+
+.containerCard .profile-card .top-section {
+  padding: 40px 40px;
+  background: linear-gradient(to bottom, #350200, #151515);
+}
+
+.containerCard .profile-card .top-section .pic {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  margin-bottom: 20px;
+  border: 5px solid black;
+  border-radius: 50%;
+  position: relative;
+}
+
+.containerCard .profile-card .top-section .pic img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.containerCard .profile-card .top-section .name {
+  color: white;
+  font-size: 28px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* DIV ALTA END */
+
+/* DIV BAIXA */
+
+.containerCard .profile-card .botton-section {
+  background: #151515;
+  padding: 10px 40px;
+  color: white;
+  position: relative;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  font-size: 32px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+/* EXTRAS */
+
+.containerCard .profile-card .botton-section .collumL {
+  background: #151515;
+  font-size: 15px;
+  text-align: left;
+  width: 100%;
+}
+
+/* PROGRESS BOX */
+
+
+
+/* MAIN */
+
+.containerCard .profile-card .botton-section .collumL .mainAbility {
+  background: #151515;
+  display: inline;
+  top: 10px;
+  position: relative;
+  letter-spacing: 5px;
+}
+
+.containerCard .profile-card .botton-section .collumL .mainAbility .abilityBox {
+  position: relative;
+  justify-content: space-between;
+}
+
+.containerCard .profile-card .botton-section span {
+  font-size: 14px;
+  letter-spacing: 5px;
+  display: block;
+  text-align: center;
+}
+
+.containerCard .profile-card .botton-section .collumL h3 span {
+  padding: 5px;
+  text-align: left;
+  word-break: break-all;
+}
+
+.containerCard .profile-card .botton-section .collumL h3 {
+  padding: 5px;
+}
+
+.containerCard .profile-card .botton-section .collumL textarea {
+  background: #1D1D22;
+  border: none;
+  outline: none;
+  font-family: 'Roboto', sans-serif;
+  color: #9E9E9E;
+}
+
+/* TEXT MORE */
+
+.containerCard .profile-card .botton-section .collumL .more {
+  background: #1D1D22;
+  border: none;
+  outline: none;
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+  color: #9E9E9E;
+}
+
+.containerCard .profile-card .botton-section .collumL .text {
+  position: relative;
+  
+}
+.containerCard .profile-card .botton-section .collumL .text .input-text{
+  display:flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.containerCard .profile-card .botton-section .collumL .text .input-text textarea{
+  width: 100%;
+}
+/* SELECT */
+
+.botton-section .collumL h3 {
+  top: 0;
+}
+
+.custom-select select {
+  width: 205px;
+  display: flex;
+  left: 2px;
+  padding: 5px;
+  position: relative;
+  font-size: 20px;
+  outline: none;
+  border-radius: 2px;
+  resize: none;
+  background: #1D1D22;
+  color: white;
+  border: none;
+  font-family: 'Ubuntu', sans-serif;
+  letter-spacing: 2px;
+}
+
+.custom-select-2 select {
+  width: 205px;
+  display: flex;
+  left: 2px;
+  padding: 5px;
+  position: relative;
+  font-size: 20px;
+  outline: none;
+  border-radius: 2px;
+  resize: none;
+  background: #1D1D22;
+  color: white;
+  border: none;
+  font-family: 'Ubuntu', sans-serif;
+  letter-spacing: 2px;
+}
+
+/* DIV BAIXA END */
+
+/* SKILLCARD */
+
+.containerCard .skillCard {
+  width: 400px;
+  left: 11px;
+  top: 11px;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 0 10px #00000070;
+}
+
+/* SKILLCARD END */
+
+/* TOP-SECTION */
+
+.containerCard .skillCard .top-section h3 {
+  position: relative;
+  display: flex;
+  background: #000;
+  height: 80px;
+  width: 400px;
+  text-transform: uppercase;
+  justify-content: center;
+  top: 0px;
+  left: 0px;
+  letter-spacing: 5px;
+  align-items: center;
+  z-index: 1;
+  font-size: 40px;
+  color: white;
+}
+
+/* TOP-SECTION END */
+
+/* BOTTON-SECTION */
+
+.containerCard .skillCard .botton-section .skillList {
+  position: relative;
+  background: linear-gradient(to bottom, #000, #350200);
+  width: 400px;
+  letter-spacing: 5px;
+  height: 435px;
+  left: 0px;
+  bottom: 0px;
+}
+
+/* ATTRIBUTE CLASS */
+
+.containerCard .skillCard .botton-section .skillList .attribute {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  left: 10px;
+  width: 377px;
+  background: #151515;
+  border: 2px solid #00000070;
+  box-shadow: 0px 0px 10px 2px #00000070;
+  height: 50px;
+  color: white;
+}
+
+/* PONTUAÇÃO */
+
+.containerCard .skillCard .botton-section .skillList .attribute .point {
+  position: relative;
+  display: flex;
+  left: 250px;
+  top: 10px;
+  font-size: 30px;
+}
+
+/* NOME DO ATRIBUTO */
+
+.containerCard .skillCard .botton-section .skillList .attribute .atributo {
+  position: relative;
+  display: flex;
+  top: 3px;
+  left: 140px;
+}
+
+/* SLIDE CONTAINER */
+
+
+
+.slidecontainer {
+  width: 350px;
+  display: flex;
+  position: relative;
+  right: 20px;
+  top: 20px;
+}
+
+.slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 2px;
+  background: #d3d3d3;
+  outline: none;
+  position: relative;
+  top: 10px;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+p {
+  font-size: 10px;
+  position: relative;
+  display: flex;
+  bottom: -17px;
+  height: 10px;
+  color: white;
+  left: -213px;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 10px;
+  border-radius: 50%;
+  position: relative;
+  height: 10px;
+  background: #9E9E9E;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+}
+
+/* SLIDE CONTAINER END */
+
+/* ATTRIBUTE CLASS END */
+
+/* BOTTON-SECTION END */
+
+/* CHECKBOX */
+
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkmark {
+  position: absolute;
+  bottom: 17.5px;
+  left: 15px;
+  bottom: 4px;
+  box-shadow: inset 0px 0px 5px #00000070;
+  border: 3px solid black;
+  color: white;
+  height: 40px;
+  width: 40px;
+  background-color: #1D1D22;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.container input:checked~.checkmark:after {
+  display: block;
+}
+.container .checkmark:after {
+  left: 14px;
+  top: 5px;
+  width: 10px;
+  height: 23px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/* CHECKBOX*/
+
+/* INVENTORY */
+
+.containerCard .inventory {
+  width: 400px;
+  left: 11px;
+  top: 11px;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 0 10px #00000070;
+}
+
+/* INVENTORY END */
+
+/* TOP-SECTION */
+
+.containerCard .inventory .top-section {
+  position: relative;
+  display: flex;
+  background: #000;
+  height: 80px;
+  width: 400px;
+  text-transform: uppercase;
+  justify-content: center;
+  top: 0px;
+  left: 0px;
+  letter-spacing: 5px;
+  align-items: center;
+  z-index: 1;
+  font-size: 40px;
+  color: white;
+}
+
+/* TOP-SECTION END */
+
+/* BOTTON-SECTION */
+
+.containerCard .inventory .botton-section {
+  position: relative;
+  background: linear-gradient(to bottom, #000, #350200);
+  width: 400px;
+  letter-spacing: 5px;
+  height: 435px;
+  left: 0px;
+  bottom: 0px;
+}

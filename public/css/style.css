@@ -33,7 +33,7 @@ img, i{
 }
 
 .containerStatus .statusBar i {
-  position: fixed;
+  position: relative;
   color: white;
   left: 10px;
   top: 13px;

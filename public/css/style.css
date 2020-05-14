@@ -26,6 +26,7 @@ img, i{
   background: #131417;
   width: 100%;
   position: fixed;
+  z-index: 5;
   height: 70px;
   display: flex;
   justify-content: space-around;

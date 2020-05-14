@@ -60,7 +60,7 @@ body{
 .custom-select select {
   width: 140px;
   display: flex;
-  left: 2px;
+  left: 5%;
   top: 20px;
   padding: 5px;
   position: relative;

@@ -78,7 +78,8 @@ body{
   width: 150px;
   display: flex;
   left: 58%;
-  top: 20%;
+  bottom: 40px;
+  padding: 5px;
   position: relative;
   font-size: 20px;
   outline: none;

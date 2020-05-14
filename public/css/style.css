@@ -32,8 +32,8 @@ body{
 .containerStatus .statusBar i {
   position: relative;
   color: white;
-  left: 10px;
-  top: 13px;
+  left: 100%;
+  top: 50%;
   font-size: 40px;
 }
 

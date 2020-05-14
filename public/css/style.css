@@ -202,10 +202,8 @@ body{
 
 .content{
     display: flex;
-    padding: 1.5rem 0.5rem 1rem 1rem;
+    padding: 1.5rem;
 }
-
-
 
 .top {
   flex-direction: row;

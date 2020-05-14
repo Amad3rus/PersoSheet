@@ -211,7 +211,6 @@ body{
   display: flex;
   text-align: center;
   align-items: flex-end;
-  justify-content: space-between;
 }
 
 .number{

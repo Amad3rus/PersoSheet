@@ -210,8 +210,7 @@ body{
   padding-top: 1.5rem;
   display: flex;
   text-align: center;
-  align-items: flex-end;
-  margin-left: 20%;
+  align-items: center;
 }
 
 .number{

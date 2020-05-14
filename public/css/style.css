@@ -23,7 +23,7 @@ body{
   background: #131417;
   width: 100%;
   height: 70px;
-  display: flex;
+  display: fixed;
   box-shadow: 0 0 10px #00000070;
   justify-content: space-around;
   flex-direction: row;

@@ -25,6 +25,7 @@ body{
   height: 70px;
   display: flex;
   position: fixed;
+  z-index: 1000;
   box-shadow: 0 0 10px #00000070;
   justify-content: space-around;
   flex-direction: row;

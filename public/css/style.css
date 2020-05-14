@@ -200,17 +200,13 @@ body{
     text-transform: uppercase;
 }
 
-.content{
-    display: flex;
-    padding: 1.7rem 2.5rem 2.6rem 2.5rem;
-}
-
 .top {
   flex-direction: row;
   padding-top: 1.5rem;
   display: flex;
   text-align: center;
-  align-items: center;
+  align-items: flex-end;
+  justify-content: space-between;
 }
 
 .number{

@@ -102,7 +102,7 @@ body{
 
 .card{
     position: relative;
-    top: 100%;
+    top: 10px;
     width: 95%;
     height: 80%;
     background-color: #151515;

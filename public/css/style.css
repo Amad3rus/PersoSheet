@@ -43,6 +43,7 @@ body{
   font-weight: 500;
   font-size: 20px;
   top: 20px;
+  left: 20px;
   position: relative;
   font-family: 'Poppins', sans-serif;
 }
@@ -52,7 +53,7 @@ body{
   font-weight: 500;
   position: relative;
   left: 170px;
-  bottom: 31px;
+  top: 20px;
   font-size: 20px;
   font-family: 'Poppins', sans-serif;
 }

@@ -77,9 +77,8 @@ body{
 .custom-select-2 select {
   width: 150px;
   display: flex;
-  left: 57%;
-  bottom: 50%;
-  padding: 5px;
+  left: 58%;
+  top: 20%;
   position: relative;
   font-size: 20px;
   outline: none;

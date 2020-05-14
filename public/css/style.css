@@ -201,13 +201,18 @@ body{
     text-transform: uppercase;
 }
 
+.content {
+  display: flex;
+  padding: 0 0 1rem 0;
+}
+
 .top {
   flex-direction: row;
   display: flex;
   text-align: center;
   align-items: flex-end;
   justify-content: space-around;
-  padding: 5px 1rem;
+  padding: 5px;
 }
 
 .number{

@@ -250,6 +250,8 @@ textarea {
   margin-top: 20px;
   display: flex;
   height: 100px;
+  left: 20px;
+  position: relative;
 }
 
 .below h3 {

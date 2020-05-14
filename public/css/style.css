@@ -206,7 +206,7 @@ body{
   text-align: center;
   align-items: flex-end;
   justify-content: space-around;
-  padding: 5px;
+  padding: 1rem;
 }
 
 .number{

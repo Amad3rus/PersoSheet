@@ -53,7 +53,7 @@ body{
   font-weight: 500;
   position: relative;
   left: 170px;
-  top: 20px;
+  bottom: 60px;
   font-size: 20px;
   font-family: 'Poppins', sans-serif;
 }

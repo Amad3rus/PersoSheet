@@ -58,7 +58,7 @@ body{
 }
 
 .custom-select select {
-  width: 180px;
+  width: 160px;
   display: flex;
   left: 5%;
   top: 20px;
@@ -75,7 +75,7 @@ body{
 }
 
 .custom-select-2 select {
-  width: 180px;
+  width: 160px;
   display: flex;
   left: 56%;
   bottom: 38px;

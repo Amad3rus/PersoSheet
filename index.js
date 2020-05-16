@@ -1,3 +1,4 @@
+/*
 
 document.querySelectorAll('[tab]').forEach(tab => {
     let n = tab.getAttribute('tab');
@@ -12,7 +13,7 @@ document.querySelectorAll('[tab]').forEach(tab => {
     });
 });
 
-/*
+
     var slider = document.getElementById("myRange");
     var output = document.getElementById("value");
 

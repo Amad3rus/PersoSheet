@@ -1,10 +1,11 @@
+
 document.querySelectorAll('[tab]').forEach(tab => {
     let n = tab.getAttribute('tab');
     document.querySelector(`#tab-${n}`).addEventListener('click', e => {
     document.querySelectorAll('.container').forEach(tab => tab.style.display = 'none');
         switch(n) {
           case (n):
-            document.querySelector(`#skill-box-${n}`).style.display = 'block';
+            document.querySelector(`#tab-${n}`).style.display = 'block';
               break;
           default:
         }

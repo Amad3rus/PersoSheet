@@ -4,7 +4,7 @@ document.querySelectorAll('[tab]').forEach(tab => {
     document.querySelectorAll('.container').forEach(tab => tab.style.display = 'none');
         switch(n) {
           case (n):
-            document.querySelector(`#skill-box-${n}`).style.display = 'block';
+            document.querySelector(`#tab-${n}`).style.display = 'block';
               break;
           default:
         }

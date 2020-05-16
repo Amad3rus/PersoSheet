@@ -17,7 +17,77 @@
   <div id="root">
     <div class="container-geral">
       
-      <div style="display:none;" class="inner">
+      <!-- PLAYER -->
+      <div id="player-menu" class="inner">
+        <div class="header">
+          <h3>Player's Menu</h3>
+        </div>
+        <div style="display:none;" class="container">
+          
+          <div onclick="myFuction" class="skill-box">
+            <div class="skill-title">
+              <div class="img">
+                <img class="skill-icon" src="icons/profile.png" alt="" />
+              </div>
+              <h3>Perfil</h3>
+            </div>
+            <p>De a aparência, classes, raças, idade, skills e muito mais personalizações</p>
+          </div>
+          
+          <div onclick="myFuction" class="skill-box">
+            <div class="skill-title">
+              <div class="img">
+                <img class="skill-icon" src="" alt="" />
+              </div>
+              <h3>Atributos</h3>
+            </div>
+            <p>Divida seus pontos de atributos que você recebeu ao upar de LV</p>
+          </div>
+          
+          <div onclick="myFuction" class="skill-box">
+            <div class="skill-title">
+              <div class="img">
+                <img class="skill-icon" src="https://cdn.onlinewebfonts.com/svg/img_573673.png" alt="" />
+              </div>
+              <h3>Inventário</h3>
+            </div>
+            <p>Adicione ou retire itens que você pega durante sua jornada</p>
+          </div>
+          
+          <div onclick="myFuction" class="skill-box">
+            <div class="skill-title">
+              <div class="img">
+                <img class="skill-icon" src="https://cdn.onlinewebfonts.com/svg/img_215612.png" alt="" />
+              </div>
+              <h3>Anotações</h3>
+            </div>
+            <p>Anote o background, informações, sua jornada, etc...</p>
+          </div>
+          
+          <div onclick="myFuction" class="skill-box">
+            <div class="skill-title">
+              <div class="img">
+                <img class="skill-icon" src="https://image.flaticon.com/icons/png/512/91/91381.png" alt="" />
+              </div>
+              <h3>Poderes</h3>
+            </div>
+            <p>Adicione ou remova todos os poderes ou magias de seu personagem</p>
+          </div>
+          
+          <div onclick="myFuction" class="skill-box">
+            <div class="skill-title">
+              <div class="img">
+                <img class="skill-icon" src="https://lh3.googleusercontent.com/proxy/LdhlGT-_Yc0KjRiDpqKSSKUPKyFAn8cFfs5r8r5kc436ok6Q7GHtPOFVIgpkOd6hywSk8cBnPt8lP8RVcUggi4k9wmr3jDvOEtDg6o9yc7Dwc59LVRqaf33-jHDky7aSCPWUG68H6hLd_BiI2xUu8T6ZBw=w384-h384" alt="" />
+              </div>
+              <h3>Configurações</h3>
+            </div>
+            <p>Alterne entre darkmode e lightmode, entre outras configurações</p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- PLAYER/PERFIL -->
+      <div style="display:none;" id="player-perfil" class="inner">
         <div class="header">
           <h3>Profile</h3>
         </div>
@@ -73,77 +143,9 @@
           </div>
         </div>
       </div>
-
-      <div style="display:none;" class="inner">
-        <div class="header">
-          <h3>Player's Menu</h3>
-        </div>
-        <div style="display:none;" class="container">
-          
-          <div class="skill-box">
-            <div class="skill-title">
-              <div class="img">
-                <!-- <img class="skill-icon" src="https://cdn.onlinewebfonts.com/svg/img_534267.png" alt="" /> -->
-                <img class="skill-icon" src="icons/profile.png" alt="" />
-              </div>
-              <h3>Perfil</h3>
-            </div>
-            <p>De a aparência, classes, raças, idade, skills e muito mais personalizações</p>
-          </div>
-          
-          <div class="skill-box">
-            <div class="skill-title">
-              <div class="img">
-                <img class="skill-icon" src="https://image.flaticon.com/icons/png/512/130/130188.png" alt="" />
-              </div>
-              <h3>Atributos</h3>
-            </div>
-            <p>Divida seus pontos de atributos que você recebeu ao upar de LV</p>
-          </div>
-          
-          <div class="skill-box">
-            <div class="skill-title">
-              <div class="img">
-                <img class="skill-icon" src="https://cdn.onlinewebfonts.com/svg/img_573673.png" alt="" />
-              </div>
-              <h3>Inventário</h3>
-            </div>
-            <p>Adicione ou retire itens que você pega durante sua jornada</p>
-          </div>
-          
-          <div class="skill-box">
-            <div class="skill-title">
-              <div class="img">
-                <img class="skill-icon" src="https://cdn.onlinewebfonts.com/svg/img_215612.png" alt="" />
-              </div>
-              <h3>Anotações</h3>
-            </div>
-            <p>Anote o background, informações, sua jornada, etc...</p>
-          </div>
-          
-          <div class="skill-box">
-            <div class="skill-title">
-              <div class="img">
-                <img class="skill-icon" src="https://image.flaticon.com/icons/png/512/91/91381.png" alt="" />
-              </div>
-              <h3>Poderes</h3>
-            </div>
-            <p>Adicione ou remova todos os poderes ou magias de seu personagem</p>
-          </div>
-          
-          <div class="skill-box">
-            <div class="skill-title">
-              <div class="img">
-                <img class="skill-icon" src="https://lh3.googleusercontent.com/proxy/LdhlGT-_Yc0KjRiDpqKSSKUPKyFAn8cFfs5r8r5kc436ok6Q7GHtPOFVIgpkOd6hywSk8cBnPt8lP8RVcUggi4k9wmr3jDvOEtDg6o9yc7Dwc59LVRqaf33-jHDky7aSCPWUG68H6hLd_BiI2xUu8T6ZBw=w384-h384" alt="" />
-              </div>
-              <h3>Configurações</h3>
-            </div>
-            <p>Alterne entre darkmode e lightmode, entre outras configurações</p>
-          </div>
-        </div>
-      </div>
       
-      <div style="display:none;" class="inner">
+      <!-- MESTRE -->
+      <div style="display:none;" id="mestre-menu" class="inner">
         <div class="header">
           <h3>Mestre Menu</h3>
         </div>

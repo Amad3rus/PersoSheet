@@ -105,8 +105,6 @@ body {
 
 /* PERFIL */
 
-/* PERFIL CARD */
-
 .container-perfil {
   padding: 20px;
   display: flex;
@@ -116,7 +114,6 @@ body {
 .perfil-box {
   position: relative;
   width: 400px;
-  overflow: hidden;
   height: 650px;
   background-color: #1D1D22;
   border-radius: 5px;

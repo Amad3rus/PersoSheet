@@ -1,3 +1,4 @@
+
 document.querySelectorAll('[tab]').forEach(tab => {
     let n = tab.getAttribute('tab');
     document.querySelector(`#tab-${n}`).addEventListener('click', e => {

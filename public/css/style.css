@@ -116,6 +116,7 @@ body {
 .perfil-box {
   position: relative;
   width: 400px;
+  overflow: hidden;
   height: 650px;
   background-color: #1D1D22;
   border-radius: 5px;

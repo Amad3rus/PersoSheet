@@ -30,7 +30,7 @@ body {
   transform: translateX(-50%);
   height: 4px;
   width: 100px;
-  background-color: #350200;
+  background: linear-gradient(to left, #F0CB35,#C02425);
   border-radius: 2px;
 }
 
@@ -68,7 +68,7 @@ body {
   width: 25px;
   height: 4px;
   border-radius: 2px 0 0 2px;
-  background-color: #350200;
+  background: linear-gradient(to left, #FF7F0A,#DC0010);
 }
 
 .skill-title:before {
@@ -79,7 +79,7 @@ body {
   width: 25px;
   height: 4px;
   border-radius: 0 2px 2px 0;
-  background-color: #350200;
+  background: linear-gradient(to left, #F0CB35,#FF7F0A);
 }
 
 .img {
@@ -87,7 +87,7 @@ body {
   height: 90px;
   position: relative;
   border-radius: 45px;
-  background-color: grey;
+  background: linear-gradient(45deg, #FF0084, #33001B);
   display: flex;
   justify-content: center;
   align-items: center;

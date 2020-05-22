@@ -91,8 +91,8 @@ input {
 h2 {
   position: relative;
   text-align: center;
-  justify-content: center;
-  left: 60px;
+  align-items: center;
+  left: 30px;
   top: 15px;
   font-family: 'Roboto', sans-serif;
   width: 110px;

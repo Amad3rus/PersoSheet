@@ -63,6 +63,7 @@ body {
   left: 62px;
   bottom: 20px;
   position: relative;
+  text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
 }
 

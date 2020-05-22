@@ -72,6 +72,7 @@ body {
 }
 
 input {
+  bottom: 10px;
   outline: none;
   padding-left: 10px;
   width: 250px;

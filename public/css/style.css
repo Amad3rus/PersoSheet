@@ -68,10 +68,11 @@ body {
 
 .insert {
   text-align: center;
-  top: 10px;
+  position: relative;
 }
 
 input {
+  bottom: 10px;
   outline: none;
   padding-left: 10px;
   width: 250px;

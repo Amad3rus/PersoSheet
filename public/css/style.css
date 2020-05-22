@@ -39,7 +39,7 @@ body {
   border-radius: 20px;
   clip-path: circle(390px at 50% -48.5%);
   display: flex;
-  background: url(img/vaporwave2.gif);
+  background: linear-gradient(to right, #000321, #000741);
 }
 
 .text {

@@ -85,13 +85,13 @@ input {
 
 .direct {
   display: flex;
+  text-align: center;
   justify-content: space-around;
 }
 
 h2 {
   position: relative;
   text-align: center;
-  align-items: center;
   left: 30px;
   top: 15px;
   font-family: 'Roboto', sans-serif;

@@ -61,7 +61,7 @@ body {
 .title {
   color: white;
   left: 62px;
-  top: 10px;
+  bottom: 10px;
   position: relative;
   font-family: 'Roboto', sans-serif;
 }

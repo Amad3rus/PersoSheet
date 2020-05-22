@@ -61,13 +61,14 @@ body {
 .title {
   color: white;
   left: 62px;
-  bottom: 25px;
+  bottom: 20px;
   position: relative;
   font-family: 'Roboto', sans-serif;
 }
 
 .insert {
   text-align: center;
+  top: 10px;
 }
 
 input {

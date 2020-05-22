@@ -1,6 +1,14 @@
   
-  
+  document.getElementById("btn1").addEventListener("Enter",function(){
+    var box1=document.getElementById("login-card");
+    if (box1.style.display=="none") {
+      box1.style.display="block";
+    }else{
+      box1.style.display="none";
+    }
+  })
 
+/*
   var slider = document.getElementById("myRange");
   var output = document.getElementById("value");
 
@@ -9,3 +17,4 @@
   slider.oninput = function() {
   output.innerHTML = this.value;
   }
+  */

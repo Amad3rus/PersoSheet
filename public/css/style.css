@@ -85,7 +85,7 @@ input {
 
 .direct {
   display: flex;
-  justify-content: space-evently;
+  justify-content: space-around;
 }
 
 h2 {

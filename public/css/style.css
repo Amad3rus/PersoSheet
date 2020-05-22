@@ -68,7 +68,7 @@ body {
 
 .insert {
   text-align: center;
-  top: 10px;
+  position: relative;
 }
 
 input {

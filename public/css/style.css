@@ -89,7 +89,7 @@ input {
 }
 
 h2 {
-  position: absolute;
+  position: relative;
   text-align: center;
   left: 60px;
   top: 15px;

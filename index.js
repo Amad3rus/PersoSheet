@@ -1,5 +1,5 @@
   
-  document.getElementById("btn1").addEventListener("Enter",function(){
+  document.getElementById("btn1").addEventListener("click",function(){
     var box1=document.getElementById("login-card");
     if (box1.style.display=="none") {
       box1.style.display="block";

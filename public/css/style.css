@@ -85,7 +85,7 @@ input {
 
 .direct {
   display: flex;
-  justify-content: space-evently;
+  justify-content: space-around;
 }
 
 h2 {
@@ -95,7 +95,7 @@ h2 {
   top: 15px;
   font-family: 'Roboto', sans-serif;
   width: 110px;
-  height: 25px;
+  height: 45px;
   font-size: 15px;
   cursor: pointer;
   color: white;

@@ -59,7 +59,7 @@ body {
 }
 
 .title {
-  color: white;
+  color: #000741;
   left: 62px;
   bottom: 20px;
   position: relative;
@@ -98,5 +98,5 @@ h2 {
   font-size: 15px;
   margin-left: 15px;
   cursor: pointer;
-  color: white;
+  color: #000741;
 }

@@ -89,13 +89,13 @@ input {
 }
 
 h2 {
-  position: absolute;
+  position: relative;
   text-align: center;
   left: 60px;
   top: 15px;
   font-family: 'Roboto', sans-serif;
   width: 110px;
-  height: 15px;
+  height: 25px;
   font-size: 15px;
   cursor: pointer;
   color: white;

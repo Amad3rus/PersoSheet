@@ -59,7 +59,7 @@ body {
 }
 
 .title {
-  color: #0013B3;
+  color: #fff;
   left: 62px;
   bottom: 20px;
   position: relative;
@@ -91,6 +91,7 @@ input {
 
 h2 {
   position: relative;
+  line-height: 10px;
   text-align: center;
   left: 60px;
   font-family: 'Roboto', sans-serif;
@@ -99,5 +100,5 @@ h2 {
   font-size: 15px;
   margin-left: 15px;
   cursor: pointer;
-  color: white;
+  color: #0013B3;
 }

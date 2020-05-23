@@ -1,4 +1,8 @@
-/* IMPORTS */
+/* IMPORTS CSS */
+
+@import url('../css/style.css');
+
+/* IMPORTS STYLES */
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
@@ -13,9 +17,6 @@
 html, body{
   width:100%;
   height:100%;
-}
-body {
-  background-color: #151515;
 }
 
 .container-geral {

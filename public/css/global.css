@@ -1,1 +1,26 @@
 
+/* IMPORTS CSS */
+
+@import url('../css/style.css');
+
+/* IMPORTS STYLES */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/* CODES */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+html, body{
+  width:100%;
+  height:100%;
+}
+
+.container-geral {
+  justify-content: center;
+  align-items: center;
+}

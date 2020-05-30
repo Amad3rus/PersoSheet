@@ -24,9 +24,9 @@
   font-size: 15px;
 }
 
-.login-area .email-box {
+.login-area .email-box input {
   outline: none;
   border: none;
   background: #18313C;
-  height: 25%;
+  height: 5%;
 }

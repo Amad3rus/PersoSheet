@@ -15,3 +15,11 @@
   color: #fff;
   letter-spacing: 3px;
 }
+
+.login-area .login-title h3 {
+  font-size: 30px;
+}
+
+.login-area .login-title span {
+  font-size: 15px;
+}

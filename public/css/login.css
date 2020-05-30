@@ -1,12 +1,7 @@
 
 body {
   background: #2C4551;
-}
-
-.login-area {
-  background: #2C4551;
-  height: 630px;
-  max-height: 100%;
+  height: 100%;
 }
 
 .login-area .login-title {

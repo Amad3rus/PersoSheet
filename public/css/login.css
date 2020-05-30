@@ -23,3 +23,10 @@
 .login-area .login-title span {
   font-size: 15px;
 }
+
+.login-area .email-box {
+  outline: none;
+  border: none;
+  background: #18313C;
+  height: 25%;
+}

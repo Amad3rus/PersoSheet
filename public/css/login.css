@@ -2,7 +2,7 @@
   position: absolute;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   background: #2C4551;
   height: 100%;
@@ -10,6 +10,8 @@
 }
 
 .login-area .login-title {
+  position: relative;
+  bottom: 100px;
   color: #fff;
   letter-spacing: 3px;
 }

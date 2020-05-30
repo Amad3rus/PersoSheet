@@ -24,10 +24,14 @@
   font-size: 15px;
 }
 
+.login-area .email-box {
+  border: 2px solid #355A6C;
+}
+
 .login-area .email-box input {
   
   outline: none;
-  border: 2px solid #355A6C;
+  border: none;
   background: #18313C;
   height: 50px;
   width: 250px;

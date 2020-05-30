@@ -46,6 +46,10 @@
   margin-top: 20px;
 }
 
+.login-area .password-box h3 {
+  position: absolute;
+}
+
 .login-area .password-box input {
   padding-left: 10px;
   outline: none;

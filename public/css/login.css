@@ -30,6 +30,8 @@
 
 .login-area .email-box h3 {
   position: absolute;
+  color: #fff;
+  font-size: 15px;
 }
 
 .login-area .email-box input {
@@ -48,6 +50,8 @@
 
 .login-area .password-box h3 {
   position: absolute;
+  color: #fff;
+  font-size: 15px;
 }
 
 .login-area .password-box input {

@@ -36,3 +36,16 @@
   height: 50px;
   width: 250px;
 }
+
+.login-area .password-box {
+  border: 2px solid #355A6C;
+}
+
+.login-area .password-box input {
+  padding-left: 10px;
+  outline: none;
+  border: none;
+  background: #18313C;
+  height: 50px;
+  width: 250px;
+}

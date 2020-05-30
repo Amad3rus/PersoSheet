@@ -2,7 +2,7 @@
   position: absolute;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
   background: #2C4551;
   height: 100%;
   width: 100%;

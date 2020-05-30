@@ -2,6 +2,8 @@
   position: absolute;
   background: #2C4551;
   border: 1px solid red;
+  height: 100%;
+  width: 100%;
 }
 
 .login-area .login-title {

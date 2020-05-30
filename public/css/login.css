@@ -29,7 +29,7 @@
 }
 
 .login-area .email-box input {
-  margin-left: 10px;
+  padding-left: 10px;
   outline: none;
   border: none;
   background: #18313C;

@@ -28,6 +28,10 @@
   border: 2px solid #355A6C;
 }
 
+.login-area .email-box h3 {
+  position: relative;
+}
+
 .login-area .email-box input {
   padding-left: 10px;
   outline: none;

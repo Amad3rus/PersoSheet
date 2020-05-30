@@ -27,7 +27,7 @@
 .login-area .email-box input {
   
   outline: none;
-  border: #355A6C;
+  border: 2px solid #355A6C;
   background: #18313C;
   height: 50px;
   width: 250px;

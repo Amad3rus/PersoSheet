@@ -1,3 +1,4 @@
+/*
 var li_elements = document.querySelectorAll(".login-area");
 var item_elements = document.querySelectorAll(".item");
 
@@ -25,3 +26,4 @@ var item_elements = document.querySelectorAll(".item");
       }
     })
   }
+*/

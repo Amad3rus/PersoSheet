@@ -124,7 +124,7 @@
 .login-area .button span {
   color: #fff;
   position: relative;
-  top: 10px;
+  top: 15px;
 }
 
 .login-area .button-acc {
@@ -140,7 +140,7 @@
 .login-area .create-acc .button-acc span {
   color: #fff;
   position: relative;
-  top: 12px;
+  top: 5px;
 }
 
 .login-area .create-acc span {

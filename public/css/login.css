@@ -107,3 +107,9 @@
   border-bottom: 1px solid #fff;
   transform: rotate(45deg);
 }*/
+
+.login-area .button {
+  width: 100px;
+  height: 25px;
+  background: linear-gradient(to right, #00DBDE, #FC00FF);
+}

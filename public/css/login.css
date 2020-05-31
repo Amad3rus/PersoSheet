@@ -85,15 +85,14 @@
 .login-area .check-box input {
   outline: none;
   border: 1px solid #355A6C;
-  -webkit-appearance: none;
+  display: none;
   width: 20px;
   height: 20px;
   background-color: #18313C;
 }
 
 .login-area .check-box input:after {
-  content: "\f00c";
-  font-size: 30px;
+  
 }
 
 .login-area .check-box span {

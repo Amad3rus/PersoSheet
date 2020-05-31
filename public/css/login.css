@@ -116,7 +116,7 @@
 .login-area .forget-password {
   position: absolute;
   left: 220px;
-  bottom: 10px;
+  bottom: 50%;
   border: 1px solid blue;
   color: #fff;
 }

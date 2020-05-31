@@ -84,6 +84,7 @@
   position: relative;
   bottom: 35px;
   right: 85px;
+  border-radius: 5px;
 }
 
 .login-area .check-box input {

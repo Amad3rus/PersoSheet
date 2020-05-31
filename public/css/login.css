@@ -29,6 +29,7 @@
 }
 
 .login-area .email-box h3 {
+  padding-left: 10px;
   position: absolute;
   color: #fff;
   font-size: 15px;

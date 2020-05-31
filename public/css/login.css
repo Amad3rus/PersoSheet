@@ -83,6 +83,7 @@
 }
 
 .login-area .check-box input {
+  display: block;
   border: 1px solid #355A6C;
   -webkit-appearance: none;
   width: 20px;
@@ -98,7 +99,7 @@
   bottom: 3px;
 }
 
-#check:checked ~ .login-area .check-box {
+#check:checked ~ .login-area .check-box input {
   width: 5px;
   height: 10px;
   border-right: 1px solid #fff;

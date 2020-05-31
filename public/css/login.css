@@ -116,3 +116,9 @@
   border-radius: 20px;
   background: linear-gradient(to right, #5798B7, #3E718A);
 }
+
+.login-area .button span {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}

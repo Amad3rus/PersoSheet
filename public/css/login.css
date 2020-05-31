@@ -92,7 +92,7 @@
 }
 
 .login-area .check-box input:before {
-  display: none;
+  display: block;
   content: "";
   position: absolute;
   width: 5px;
@@ -103,7 +103,7 @@
 }
 
 .login-area .check-box input:after {
-  display: block;
+  display: none;
   content: "";
   position: absolute;
   width: 5px;

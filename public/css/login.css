@@ -40,6 +40,7 @@
 }
 
 .login-area .email-box input {
+  border-radius: 5px;
   color: #fff;
   padding-top: 10px;
   padding-left: 20px;
@@ -67,6 +68,7 @@
 
 .login-area .password-box input {
   padding-left: 20px;
+  border-radius: 5px;
   padding-top: 10px;
   color: #fff;
   outline: none;
@@ -113,7 +115,7 @@
   cursor: pointer;
   width: 250px;
   height: 50px;
-  border-radius: 20px;
+  border-radius: 5px;
   background: linear-gradient(to right, #5798B7, #3E718A);
 }
 

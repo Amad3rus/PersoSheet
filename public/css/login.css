@@ -126,3 +126,18 @@
   position: relative;
   top: 15px;
 }
+
+.login-area .button-acc {
+  text-align: center;
+  cursor: pointer;
+  width: 250px;
+  height: 50px;
+  border-radius: 5px;
+  background: linear-gradient(to right, #0D1E25, #0E1D24);
+}
+
+.login-area .button-acc span {
+  color: #fff;
+  position: relative;
+  top: 15px;
+}

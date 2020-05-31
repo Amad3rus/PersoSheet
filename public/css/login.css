@@ -81,3 +81,8 @@
   bottom: 35px;
   right: 85px;
 }
+
+.login-area .check-box span {
+  color: #fff;
+  opacity: 0.5;
+}

@@ -115,10 +115,11 @@
 
 .login-area .forget-password {
   position: absolute;
+  cursor: pointer;
   left: 220px;
   bottom: 49%;
   border-bottom: 1px solid #FF0084;
-  color: #fff;
+  color: #FF0084;
 }
 
 .login-area .button-login {

@@ -110,6 +110,7 @@
 
 .login-area .button {
   text-align: center;
+  cursor: pointer;
   width: 250px;
   height: 50px;
   border-radius: 20px;

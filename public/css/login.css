@@ -88,6 +88,7 @@
   -webkit-appearance: none;
   width: 20px;
   height: 20px;
+  cursor: pointer;
   background-color: #18313C;
 }
 

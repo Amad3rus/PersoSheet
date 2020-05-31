@@ -99,7 +99,7 @@
   border-right: 5px solid #fff;
   border-bottom: 5px solid #fff;
   transform: rotate(45deg);
-  display: none;
+  display: block;
 }
 
 .login-area .check-box span {

@@ -82,10 +82,13 @@
   right: 85px;
 }
 
+.login-area .check-box {
+  display: none;
+}
+
 .login-area .check-box input {
   outline: none;
   border: 1px solid #355A6C;
-  display: none;
   width: 20px;
   height: 20px;
   background-color: #18313C;

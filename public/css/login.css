@@ -113,6 +113,10 @@
   transform: rotate(45deg);
 }*/
 
+.login-area .forget-password {
+  color: #fff;
+}
+
 .login-area .button-login {
   text-align: center;
   cursor: pointer;

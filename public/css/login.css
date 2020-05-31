@@ -27,7 +27,7 @@
 
 .login-area .email-box {
   position: relative;
-  border: 2px solid #355A6C;
+  border: 2px solid #FF0084;
   border-radius: 5px;
   bottom: 44.5px;
 }
@@ -53,7 +53,7 @@
 }
 
 .login-area .password-box {
-  border: 2px solid #355A6C;
+  border: 2px solid #FF0084;
   margin-top: 20px;
   border-radius: 5px;
   position: relative;
@@ -87,7 +87,7 @@
 }
 
 .login-area .check-box input {
-  border: 1px solid #355A6C;
+  border: 1px solid #FF0084;
   outline: none;
   border-radius: 5px;
   -webkit-appearance: none;

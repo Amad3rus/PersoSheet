@@ -82,6 +82,11 @@
   right: 85px;
 }
 
+.login-area .check-box input {
+  border: none;
+  background: #18313C;
+}
+
 .login-area .check-box span {
   color: #fff;
   opacity: 0.5;

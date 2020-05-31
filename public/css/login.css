@@ -137,8 +137,14 @@
   border: 3px solid #355A6C;
 }
 
-.login-area .button-acc span {
+.login-area .create-acc .button-acc span {
   color: #fff;
   position: relative;
   top: 12px;
+}
+
+.login-area .create-acc span {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }

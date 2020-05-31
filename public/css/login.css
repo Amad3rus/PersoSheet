@@ -114,7 +114,7 @@
   transform: rotate(45deg);
 }*/
 
-.login-area .button {
+.login-area .button-login {
   text-align: center;
   cursor: pointer;
   width: 250px;
@@ -123,7 +123,7 @@
   background: linear-gradient(to right, #5798B7, #3E718A);
 }
 
-.login-area .button span {
+.login-area .button-login span {
   color: #fff;
   position: relative;
   top: 15px;

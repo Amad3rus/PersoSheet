@@ -110,5 +110,6 @@
 }
 
 .login-area .check-box input:after {
+  content: "";
   display: block;
 }

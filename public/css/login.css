@@ -91,6 +91,11 @@
   background-color: #18313C;
 }
 
+.login-area .check-box input:after {
+  content: "/f00c";
+  font-size: 30px;
+}
+
 .login-area .check-box span {
   color: #fff;
   opacity: 0.5;

@@ -145,6 +145,7 @@
 }
 
 .login-area .create-acc span {
+  color: #fff;
   display: flex;
   justify-content: center;
   padding-top: 10px;

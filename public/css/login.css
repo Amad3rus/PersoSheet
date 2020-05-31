@@ -91,7 +91,7 @@
   background-color: #18313C;
 }
 
-.login-area .check-box input:after {
+.login-area .check-box input:before {
   content: "";
   position: absolute;
   width: 25px;

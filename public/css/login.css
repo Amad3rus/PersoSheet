@@ -38,7 +38,7 @@
 }
 
 .login-area .email-box input {
-  color: grey;
+  color: #fff;
   padding-top: 10px;
   padding-left: 20px;
   outline: none;
@@ -64,7 +64,7 @@
 .login-area .password-box input {
   padding-left: 20px;
   padding-top: 10px;
-  color: grey;
+  color: #fff;
   outline: none;
   border: none;
   background: #18313C;

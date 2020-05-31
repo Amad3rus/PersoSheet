@@ -119,6 +119,6 @@
 
 .login-area .button span {
   color: #fff;
-  display: flex;
-  align-items: center;
+  position: absolute;
+  top: 50px;
 }

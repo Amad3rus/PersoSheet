@@ -98,7 +98,7 @@
   bottom: 3px;
 }
 
-#check:checked ~ .login-area .check-box input {
+#check:checked ~ .login-area .check-box {
   width: 5px;
   height: 10px;
   border-right: 1px solid #fff;

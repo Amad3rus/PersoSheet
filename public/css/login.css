@@ -33,12 +33,12 @@
   padding-left: 20px;
   padding-top: 10px;
   position: absolute;
-  color: #BDBDBD;
+  color: #fff;
   font-size: 13px;
 }
 
 .login-area .email-box input {
-  color: #fff;
+  color: grey;
   padding-top: 10px;
   padding-left: 20px;
   outline: none;
@@ -56,7 +56,7 @@
 .login-area .password-box h3 {
   position: absolute;
   padding-top: 10px;
-  color: #BDBDBD;
+  color: #fff;
   font-size: 13px;
   padding-left: 20px;
 }
@@ -64,7 +64,7 @@
 .login-area .password-box input {
   padding-left: 20px;
   padding-top: 10px;
-  color: #fff;
+  color: grey;
   outline: none;
   border: none;
   background: #18313C;

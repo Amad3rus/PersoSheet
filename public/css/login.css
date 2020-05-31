@@ -100,8 +100,6 @@
 }
 
 #check:checked ~ .login-area .check-box input {
-  content: "";
-  position: absolute;
   width: 5px;
   height: 10px;
   border-right: 1px solid #fff;

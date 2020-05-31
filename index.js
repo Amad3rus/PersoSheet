@@ -12,11 +12,11 @@ var item_elements = document.querySelectorAll(".item");
           item.style.display = "none";
         })
       
-      if(li_value == "login"){
+      if(li_value == "login-area"){
         document.querySelector("." + li_value).style.display = "block";
       }
       
-      else if(li_value == "choice"){
+      else if(li_value == "choice-area"){
         document.querySelector("." + li_value).style.display = "block";
       }
       

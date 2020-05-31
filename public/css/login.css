@@ -27,6 +27,7 @@
 
 .login-area .email-box {
   border: 2px solid #355A6C;
+  bottom: 46px;
 }
 
 .login-area .email-box h3 {

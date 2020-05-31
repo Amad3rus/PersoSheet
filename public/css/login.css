@@ -94,10 +94,10 @@
 .login-area .check-box input:before {
   content: "";
   position: absolute;
-  width: 25px;
-  height: 45px;
-  border-right: 5px solid #fff;
-  border-bottom: 5px solid #fff;
+  width: 2px;
+  height: 5px;
+  border-right: 1px solid #fff;
+  border-bottom: 1px solid #fff;
   transform: rotate(45deg);
   display: block;
 }

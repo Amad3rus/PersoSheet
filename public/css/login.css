@@ -92,6 +92,11 @@
 }
 
 .login-area .check-box input:before {
+  display: none;
+}
+
+.login-area .check-box input:after {
+  display: block;
   content: "";
   position: absolute;
   width: 5px;
@@ -99,11 +104,6 @@
   border-right: 1px solid #fff;
   border-bottom: 1px solid #fff;
   transform: rotate(45deg);
-  display: none;
-}
-
-.login-area .check-box input:after {
-  display: block;
 }
 
 .login-area .check-box span {

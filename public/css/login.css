@@ -33,7 +33,7 @@
   padding-left: 20px;
   padding-top: 10px;
   position: absolute;
-  color: grey;
+  color: #BDBDBD;
   font-size: 13px;
 }
 
@@ -56,7 +56,7 @@
 .login-area .password-box h3 {
   position: absolute;
   padding-top: 10px;
-  color: grey;
+  color: #BDBDBD;
   font-size: 13px;
   padding-left: 20px;
 }

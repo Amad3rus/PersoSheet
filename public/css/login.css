@@ -92,7 +92,7 @@
 }
 
 .login-area .check-box input:after {
-  content: "/f00c";
+  content: "\f00c";
   font-size: 30px;
 }
 

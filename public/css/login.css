@@ -88,6 +88,7 @@
 
 .login-area .check-box input {
   border: 1px solid #355A6C;
+  outline: none;
   border-radius: 5px;
   -webkit-appearance: none;
   width: 20px;

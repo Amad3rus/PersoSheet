@@ -83,8 +83,7 @@
 }
 
 .login-area .check-box input {
-  border: none;
-  background: #18313C;
+  -webkit-appearance: none;
 }
 
 .login-area .check-box span {

@@ -31,6 +31,7 @@
 
 .login-area .email-box h3 {
   padding-left: 10px;
+  top: 10px;
   position: absolute;
   color: #fff;
   font-size: 15px;
@@ -53,6 +54,7 @@
 
 .login-area .password-box h3 {
   position: absolute;
+  top: 10px;
   color: #fff;
   font-size: 15px;
   padding-left: 10px;

@@ -14,7 +14,12 @@
   letter-spacing: 3px;
 }
 
-.choice-area .choice-box-m {
+.choice-area .choice-box {
+  display: flex;
+  align-items: center;
+}
+
+.choice-area .choice-box .choice-box-m {
   width: 30%;
   height: 30%;
   border-radius: 20px;

@@ -9,7 +9,7 @@
 .choice-area .choice-title {
   color: white;
   display: flex;
-  align-items: center;
+  justify-content: center;
   font-size: 30px;
   letter-spacing: 3px;
 }

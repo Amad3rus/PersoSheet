@@ -27,7 +27,7 @@
   height: 100px;
   border-radius: 20px;
   background: #FF0084;
-  position: pointer;
+  cursor: pointer;
 }
 
 .choice-area .choice-box .choice-box-m h3 {

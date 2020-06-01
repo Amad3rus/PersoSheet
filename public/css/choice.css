@@ -1,1 +1,16 @@
+.choice-area {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
 
+.choice-area .choice-title {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 3px;
+}

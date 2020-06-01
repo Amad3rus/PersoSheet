@@ -15,7 +15,6 @@
 }
 
 .choice-area .choice-box {
-  display: flex;
   flex-direction: column;
   align-items: center;
 }

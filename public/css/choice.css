@@ -53,5 +53,6 @@
 }
 
 .choice-area .choice-box .choice-info-m {
-  position: absolute;
+  display: flex;
+  flex-direction: column;
 }

@@ -16,6 +16,10 @@
 
 .choice-area .choice-box {
   display: flex;
+  width: 100%;
+  height: 200px;
+  border-top-left-radius: 20px;
+  background: #1d1d22;
   flex-direction: column;
   align-items: center;
   justify-content: center;

@@ -64,8 +64,7 @@
 
 .choice-area .choice-info .choice-info-m {
   border-right: 2px solid black;
-  margin-left: 10px;
-  width: 500px;
+  margin-left: 14px;
   height: 385px;
   display: flex;
   align-items: center;

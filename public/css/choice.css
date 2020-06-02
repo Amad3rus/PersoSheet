@@ -27,7 +27,7 @@
 .choice-area .choice-box .choice-box-m {
   width: 40%;
   height: 130px;
-  border-radius: 20px;
+  border-radius: 50px;
   background: #FF0084;
   cursor: pointer;
 }

@@ -7,10 +7,3 @@
   height: 100%;
   width: 100%;
 }
-
-.login-create-area .email-box {
-  position: relative;
-  border: 2px solid #FF0084;
-  border-radius: 5px;
-  bottom: 44.5px;
-}

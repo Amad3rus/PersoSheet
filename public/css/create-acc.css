@@ -35,6 +35,8 @@
 .create-area .email-box h3 {
   position: absolute;
   color: #fff;
+   padding-left: 20px;
+  padding-top: 10px;
   font-size: 13px;
 }
 

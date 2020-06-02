@@ -11,6 +11,8 @@
 
 .create-area .perfil-choice {
   margin-bottom: 50px;
-  
 }
 
+.create-area .perfil-choice .mestre {
+  border: 2px solid red;
+}

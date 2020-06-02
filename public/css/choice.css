@@ -53,6 +53,5 @@
 }
 
 .choice-area .choice-box .choice-info {
-  display: flex;
-  flex-direction: column;
+  position: relative;
 }

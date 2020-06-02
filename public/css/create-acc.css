@@ -34,6 +34,7 @@
   position: absolute;
   color: #fff;
   font-size: 13px;
+  bottom: 30px;
 }
 
 .create-area .email-box input {

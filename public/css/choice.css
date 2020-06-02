@@ -17,7 +17,6 @@
 
 .choice-area .choice-box {
   display: flex;
-  flex-direction: column;
   width: 100%;
   height: 534px;
   border-top-left-radius: 50px;

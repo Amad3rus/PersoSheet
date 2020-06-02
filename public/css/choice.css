@@ -1,6 +1,7 @@
 .choice-area {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   height: 100%;
   width: 100%;
 }

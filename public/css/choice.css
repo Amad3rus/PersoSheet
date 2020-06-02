@@ -48,3 +48,9 @@
   background: #FF0084;
   cursor: pointer;
 }
+
+.choice-area .choice-box .choice-box-p h3 {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 37px;
+}

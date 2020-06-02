@@ -65,5 +65,6 @@
 .choice-area .choice-info .choice-info-m {
   border-right: 2px solid black;
   margin-left: 14px;
+  margin-top: 50px;
   height: 350px;
 }

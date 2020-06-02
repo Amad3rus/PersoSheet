@@ -15,4 +15,6 @@
 
 .create-area .perfil-choice .mestre {
   border: 2px solid red;
+  display: flex;
+  flex-direction: row;
 }

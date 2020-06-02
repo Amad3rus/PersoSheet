@@ -26,6 +26,7 @@
 }
 
 .create-area .email-box {
+  position: relative;
   border: 2px solid #FF0084;
   border-radius: 5px;
 }

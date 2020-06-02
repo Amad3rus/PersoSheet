@@ -11,5 +11,7 @@
 
 .create-area .perfil-choice {
   margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
 }
 

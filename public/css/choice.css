@@ -51,3 +51,8 @@
   text-align: center;
   margin-top: 55px;
 }
+
+.choice-area .choice-info {
+  display: flex;
+  flex-direction: column;
+}

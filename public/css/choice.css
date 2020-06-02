@@ -56,4 +56,6 @@
   position: absolute;
   top: 100px;
   color: white;
+  display: flex;
+  flex-direction: column;
 }

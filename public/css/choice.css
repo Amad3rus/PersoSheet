@@ -38,4 +38,6 @@
 .choice-area .choice-box .choice-box-m h3 {
   font-size: 25px;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }

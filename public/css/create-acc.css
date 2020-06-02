@@ -12,6 +12,6 @@
 .create-area .perfil-choice {
   display: flex;
   flex-direction: row;
-  border: 2px solid red;
-  justify-content: space-between;
+  margin-bottom: 50px;
 }
+

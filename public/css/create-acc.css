@@ -10,5 +10,6 @@
 }
 
 .create-area .perfil-choice {
-  
+  display: flex;
+  flex-direction: row;
 }

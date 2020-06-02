@@ -23,6 +23,7 @@
   background: #1d1d22;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   color: #fff;
 }
 

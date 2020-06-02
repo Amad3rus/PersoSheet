@@ -32,7 +32,7 @@
 }
 
 .create-area .email-box h3 {
-  
+  position: absolute;
   color: #fff;
   font-size: 13px;
 }

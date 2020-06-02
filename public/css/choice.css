@@ -54,5 +54,6 @@
 
 .choice-area .choice-info {
   position: relative;
+  bottom: 100lx;
   color: white;
 }

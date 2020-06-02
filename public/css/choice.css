@@ -52,6 +52,7 @@
   margin-top: 55px;
 }
 
-.choice-area .choice-info {
-  position: absolute;
+.choice-area .choice-box .choice-info {
+  display: flex;
+  flex-direction: column;
 }

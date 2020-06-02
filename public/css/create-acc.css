@@ -10,11 +10,10 @@
 }
 
 .create-area .perfil-choice {
-  display: flex;
-  flex-direction: row;
   margin-bottom: 50px;
 }
 
 .create-area .perfil-choice .mestre {
   margin-right: 20px;
 }
+

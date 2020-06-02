@@ -39,9 +39,8 @@
 }
 
 .choice-area .choice-box .choice-box-p {
-  width: 40%;
-  height: 130px;
-  border-radius: 20px;
+  width: 50%;
+  height: 534px;
   background: #FF0084;
   cursor: pointer;
 }

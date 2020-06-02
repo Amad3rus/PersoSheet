@@ -25,6 +25,21 @@
   align-items: center;
 }
 
+.create-area .email-box {
+  position: relative;
+  border: 2px solid #FF0084;
+  border-radius: 5px;
+  bottom: 44.5px;
+}
+
+.create-area .email-box h3 {
+  padding-left: 20px;
+  padding-top: 10px;
+  position: absolute;
+  color: #fff;
+  font-size: 13px;
+}
+
 .create-area .email-box input {
   color: #fff;
   border-radius: 3px;

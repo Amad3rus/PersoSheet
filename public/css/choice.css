@@ -66,5 +66,6 @@
   border-right: 2px solid black;
   margin-left: 14px;
   height: 350px;
-  text-align: center;
+  display: flex;
+  align-items: center;
 }

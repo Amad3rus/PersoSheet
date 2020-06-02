@@ -40,3 +40,11 @@
   text-align: center;
   margin-top: 37px;
 }
+
+.choice-area .choice-box .choice-box-p {
+  width: 40%;
+  height: 100px;
+  border-radius: 20px;
+  background: #FF0084;
+  cursor: pointer;
+}

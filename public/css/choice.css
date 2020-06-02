@@ -22,6 +22,7 @@
   border-top-left-radius: 50px;
   background: #1d1d22;
   flex-direction: column;
+  justify-content: center;
   color: #fff;
 }
 

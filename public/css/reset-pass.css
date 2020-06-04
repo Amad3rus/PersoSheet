@@ -17,6 +17,7 @@
   border: 1px solid red;
   font-size: 30px;
   letter-spacing: 4px;
+  display: inline-block;
 }
 
 /* NEW PASS */

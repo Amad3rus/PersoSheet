@@ -36,6 +36,7 @@
   position: absolute;
   bottom: 25px;
   left: 10px;
+  font-size: 13px;
   border: 1px solid red;
 }
 

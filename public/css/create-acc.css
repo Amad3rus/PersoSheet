@@ -26,16 +26,12 @@
 
 .create-area .perfil-choice .mestre {
   display: flex;
-  border: 2px solid #FF0084;
-  border-radius: 5px;
   flex-direction: row;
   align-items: center;
 }
 
 .create-area .perfil-choice .personagem {
   display: flex;
-  border: 2px solid #FF0084;
-  border-radius: 5px;
   flex-direction: row;
   align-items: center;
 }

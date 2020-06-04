@@ -76,3 +76,20 @@
   padding-top: 5px;
   padding-left: 15px;
 }
+
+/* RESET CONFIRM */
+
+.reset-confirm {
+  text-align: center;
+  cursor: pointer;
+  width: 250px;
+  height: 50px;
+  border-radius: 5px;
+  background: #FF0084;
+}
+
+.reset-confirm span {
+  color: #fff;
+  position: relative;
+  top: 15px;
+}

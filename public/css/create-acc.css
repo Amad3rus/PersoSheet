@@ -98,3 +98,14 @@
   padding-top: 5px;
   padding-left: 15px;
 }
+
+/* CREATE ACC */
+.create-button-acc {
+  text-align: center;
+  cursor: pointer;
+  width: 250px;
+  height: 50px;
+  border-radius: 5px;
+  background: #151515;
+  border: 2px solid #FF0084;
+}

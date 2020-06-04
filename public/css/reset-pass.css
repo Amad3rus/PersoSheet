@@ -1,1 +1,19 @@
+.reset-pass {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  color: white;
+}
 
+/* TITLE */
+
+.reset-pass .reset-title {
+  position: relative;
+  bottom: 80px;
+  font-size: 30px;
+  letter-spacing: 4px;
+}

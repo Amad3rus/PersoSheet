@@ -50,3 +50,20 @@
   letter-spacing: 25px;
   text-transform: uppercase;
 }
+
+/* CODE CONFIRM */
+
+.code-verify .code-btn {
+  text-align: center;
+  cursor: pointer;
+  width: 250px;
+  height: 50px;
+  border-radius: 5px;
+  background: linear-gradient(to left, #67002C, #94004A);
+}
+
+.code-verify .code-btn span {
+  color: #fff;
+  position: relative;
+  top: 15px;
+}

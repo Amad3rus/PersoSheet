@@ -35,6 +35,8 @@
 
 .create-area .perfil-choice .personagem {
   display: flex;
+  position: relative;
+  right: 55px;
   flex-direction: row;
   align-items: center;
 }

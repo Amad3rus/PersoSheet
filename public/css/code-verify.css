@@ -1,1 +1,29 @@
+.code-verify {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  color: white;
+}
 
+/* FORGET-TITLE */
+
+.code-verify .code-title {
+  width: 350px;
+  position: relative;
+  bottom: 70px;
+  color: #fff;
+  letter-spacing: 3px;
+}
+
+.code-verify .code-title h3 {
+  font-size: 30px;
+}
+
+.code-verify .code-title span {
+  font-size: 15px;
+  opacity: 0.5;
+}

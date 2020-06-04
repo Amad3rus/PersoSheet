@@ -10,5 +10,17 @@
 }
 
 .forget-pass .forget-title {
+  position: relative;
+  bottom: 70px;
+  color: #fff;
+  letter-spacing: 3px;
+}
+
+.forget-pass .forget-title h3 {
   font-size: 30px;
+}
+
+.forget-pass .forget-title span {
+  font-size: 15px;
+  opacity: 0.5;
 }

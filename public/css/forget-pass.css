@@ -60,6 +60,8 @@
 /* CODE BTN */
 
 .forget-pass .forget-btn {
+  position: absolute;
+  left: 100px;
   text-align: center;
   cursor: pointer;
   width: 250px;

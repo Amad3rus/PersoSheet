@@ -110,9 +110,7 @@
 }
 
 .create-button-acc span {
-  color: grey;
-  display: flex;
-  justify-content: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  color: #fff;
+  position: relative;
+  top: 3px;
 }

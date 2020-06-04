@@ -9,6 +9,10 @@
   color: white;
 }
 
+.create-area .create-title {
+  position: relative;
+}
+
 .create-area .perfil-choice {
   margin-bottom: 20px;
 }

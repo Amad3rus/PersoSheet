@@ -22,14 +22,6 @@
 
 .create-area .perfil-choice {
   margin-bottom: 20px;
-  border: 1px solid #FF0084;
-  outline: none;
-  border-radius: 5px;
-  -webkit-appearance: none;
-  width: 20px;
-  height: 20px;
-  cursor: pointer;
-  background-color: #1d1d22;
 }
 
 .create-area .perfil-choice .mestre {
@@ -42,6 +34,17 @@
   align-items: center;
 }
 
+.create-area .perfil-choice .mestre input {
+  border: 1px solid #FF0084;
+  outline: none;
+  border-radius: 5px;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  background-color: #1d1d22;
+}
+
 .create-area .perfil-choice .personagem {
   display: flex;
   letter-spacing: 3px;
@@ -50,6 +53,17 @@
   bottom: 10px;
   flex-direction: row;
   align-items: center;
+}
+
+.create-area .perfil-choice .personagem input {
+  border: 1px solid #FF0084;
+  outline: none;
+  border-radius: 5px;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  background-color: #1d1d22;
 }
 
 /* EMAIL */

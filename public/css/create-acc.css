@@ -26,6 +26,7 @@
 
 .create-area .perfil-choice .mestre {
   display: flex;
+  position: relative;
   flex-direction: row;
   align-items: center;
 }

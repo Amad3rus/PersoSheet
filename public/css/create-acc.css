@@ -99,6 +99,35 @@
   padding-left: 15px;
 }
 
+/* PASSWORD CONFIRM */
+
+.create-area .password-confirm-box {
+  position: relative;
+  border: 2px solid #FF0084;
+  border-radius: 5px;
+  bottom: 20px;
+  margin-top: 15px;
+}
+
+.create-area .password-confirm-box h3 {
+  position: absolute;
+  bottom: 35px;
+  left: 15px;
+  font-size: 13px;
+}
+
+.create-area .password-confirm-box input {
+  color: #fff;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  background: #1d1d22;
+  height: 60px;
+  width: 250px;
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
 /* CREATE ACC */
 .create-button-acc {
   text-align: center;

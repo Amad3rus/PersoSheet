@@ -17,3 +17,61 @@
   font-size: 30px;
   letter-spacing: 4px;
 }
+
+/* NEW PASS */
+
+.reset-pass .new-pass {
+  position: relative;
+  border: 2px solid #FF0084;
+  border-radius: 5px;
+  bottom: 20px;
+  margin-top: 15px;
+}
+
+.reset-pass .new-pass h3 {
+  position: absolute;
+  bottom: 35px;
+  left: 15px;
+  font-size: 13px;
+}
+
+.reset-pass .new-pass input {
+  color: #fff;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  background: #1d1d22;
+  height: 60px;
+  width: 250px;
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
+/* NEW PASS CONFIRM */
+
+.reset-pass .new-pass-confirm {
+  position: relative;
+  border: 2px solid #FF0084;
+  border-radius: 5px;
+  bottom: 20px;
+  margin-top: 15px;
+}
+
+.reset-pass .new-pass-confirm h3 {
+  position: absolute;
+  bottom: 35px;
+  left: 15px;
+  font-size: 13px;
+}
+
+.reset-pass .new-pass-confirm input {
+  color: #fff;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  background: #1d1d22;
+  height: 60px;
+  width: 250px;
+  padding-top: 5px;
+  padding-left: 15px;
+}

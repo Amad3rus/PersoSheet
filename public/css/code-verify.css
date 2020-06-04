@@ -54,6 +54,8 @@
 /* CODE CONFIRM */
 
 .code-verify .code-btn {
+  position: relative;
+  bottom: 15px;
   text-align: center;
   cursor: pointer;
   width: 250px;

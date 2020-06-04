@@ -24,6 +24,8 @@
   opacity: 0.5;
 }
 
+/* EMAIL */
+
 .login-area .email-box {
   position: relative;
   border: 2px solid #FF0084;
@@ -50,6 +52,8 @@
   height: 60px;
   width: 250px;
 }
+
+/* PASSWORD */
 
 .login-area .password-box {
   border: 2px solid #FF0084;
@@ -79,6 +83,8 @@
   width: 250px;
 }
 
+/* CHECKBOX */
+
 .login-area .check-box {
   position: relative;
   bottom: 35px;
@@ -103,15 +109,7 @@
   bottom: 3px;
 }
 
-/* #check:checked ~ .login-area .check-box input {
-  content: "";
-  position: absolute;
-  width: 5px;
-  height: 10px;
-  border-right: 1px solid #fff;
-  border-bottom: 1px solid #fff;
-  transform: rotate(45deg);
-}*/
+/* FORGET-PASSWORD */
 
 .login-area .forget-password {
   position: absolute;
@@ -121,6 +119,8 @@
   border-bottom: 1px solid #FF0084;
   color: #FF0084;
 }
+
+/* LOGIN BTN */
 
 .login-area .button-login {
   text-align: center;
@@ -136,6 +136,8 @@
   position: relative;
   top: 15px;
 }
+
+/* CREATE-ACC BTN*/
 
 .login-area .button-acc {
   text-align: center;

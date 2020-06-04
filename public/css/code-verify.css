@@ -29,6 +29,13 @@
 
 /* CODE INSERT */
 
+.code-insert {
+  position: relative;
+  border: 2px solid #FF0084;
+  border-radius: 5px;
+  bottom: 44.5px;
+}
+
 .code-insert input {
   color: #fff;
   border-radius: 3px;

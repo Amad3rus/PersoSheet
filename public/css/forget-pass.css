@@ -10,6 +10,7 @@
 }
 
 .forget-pass .forget-title {
+  width: 150px;
   position: relative;
   bottom: 130px;
   color: #fff;

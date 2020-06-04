@@ -33,7 +33,7 @@
 }
 
 .create-area .email-box h3 {
-  display: flex;
+  position: absolute;
 }
 
 .create-area .email-box input {

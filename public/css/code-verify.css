@@ -29,3 +29,14 @@
 
 /* CODE INSERT */
 
+.code-insert input {
+  color: #fff;
+  border-radius: 3px;
+  padding-top: 10px;
+  padding-left: 20px;
+  outline: none;
+  border: none;
+  background: #1d1d22;
+  height: 60px;
+  width: 250px;
+}

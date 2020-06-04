@@ -33,6 +33,7 @@
 }
 
 .create-area .email-box h3 {
+  position: absolute;
   border: 1px solid red;
 }
 

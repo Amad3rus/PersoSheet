@@ -9,7 +9,7 @@
 .player-menu i {
   font-size: 50px;
   cursor: pointer;
-  display: inline-block;
+  position: inheith;
 }
 
 .player-menu .player-sidebar {

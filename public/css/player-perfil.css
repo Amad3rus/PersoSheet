@@ -121,7 +121,8 @@
 
 .player-perfil .main-skills input {
   position: relative;
-  width: 150px;
+  width: 50px;
+  font-size: 45px;
   border: none;
   outline: none;
   background: #1d1d22;

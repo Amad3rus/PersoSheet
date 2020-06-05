@@ -6,13 +6,6 @@
   flex-direction: row;
 }
 
-.player-menu i {
-  font-size: 50px;
-  cursor: pointer;
-  height: inherit;
-  color: #FF0084;
-}
-
 .player-menu .player-sidebar {
   display: flex;
   flex-direction: column;

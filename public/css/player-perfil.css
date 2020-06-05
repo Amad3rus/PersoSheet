@@ -42,4 +42,7 @@
   font-size: 25px;
   background: #1d1d22;
   border: 1px solid red;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #fff;
 }

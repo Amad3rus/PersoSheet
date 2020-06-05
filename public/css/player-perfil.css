@@ -21,6 +21,14 @@
   border-bottom-right-radius: 100px;
 }
 
+.player-perfil .player-img h3 {
+  position: absolute;
+}
+
+.player-perfil .player-img span {
+  position: absolute;
+}
+
 .player-perfil .player-img img {
   position: relative;
   border-radius: 50%;

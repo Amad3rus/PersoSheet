@@ -120,7 +120,7 @@
 }
 
 .player-perfil .main-skills input {
-  position: absolute;
+  position: relative;
   width: 150px;
   border: none;
   outline: none;

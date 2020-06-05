@@ -47,6 +47,7 @@
 
 .player-perfil .player-img .hp-title {
   position: absolute;
+  letter-spacing: 5px;
   top: 35%;
   left: 10%;
 }

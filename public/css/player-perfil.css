@@ -115,4 +115,5 @@
 
 .player-perfil .main-skills {
   border: 2px solid red;
+  position: absolute;
 }

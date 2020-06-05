@@ -118,3 +118,15 @@
   position: relative;
   top: 30px;
 }
+
+.player-perfil .main-skills input {
+  position: absolute;
+  width: 150px;
+  border: none;
+  outline: none;
+  background: #1d1d22;
+  border-bottom: 1px solid #FF0084;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #fff;
+}

@@ -21,6 +21,8 @@
   border-bottom-right-radius: 100px;
 }
 
+/* H3 */
+
 .player-perfil .player-img h3 {
   position: absolute;
   color: #fff;
@@ -28,7 +30,7 @@
 
 .player-perfil .player-img .hp-valor {
   position: absolute;
-  top: 25%;
+  top: 30%;
   left: 10%;
   font-size: 30px;
 }
@@ -39,6 +41,8 @@
   left: 77%;
   font-size: 30px;
 }
+
+/* SPAN */
 
 .player-perfil .player-img span {
   position: absolute;

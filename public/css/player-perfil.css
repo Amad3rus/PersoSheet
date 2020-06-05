@@ -27,7 +27,7 @@
 }
 
 .player-perfil .player-img .hp-valor {
-  position: relative;
+  position: absolute;
   top: 50%;
   left: 15%;
 }

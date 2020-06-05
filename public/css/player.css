@@ -15,6 +15,7 @@
 
 .player-menu .player-sidebar {
   position: relative;
+  opacity: 0.5;
   width: 50%;
   height: 625px;
   background: #1d1d22;

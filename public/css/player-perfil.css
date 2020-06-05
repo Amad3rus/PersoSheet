@@ -56,11 +56,11 @@
   left: 10%;
 }
 
-.player-perfil .player-img .valor-title {
+.player-perfil .player-img .sanity-title {
   position: absolute;
   letter-spacing: 5px;
-  top: 77%;
-  left: 10%;
+  top: 35%;
+  left: 77%;
 }
 
 /* IMG */

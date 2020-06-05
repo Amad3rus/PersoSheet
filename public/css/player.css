@@ -16,7 +16,7 @@
 .player-menu .player-sidebar {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
   position: relative;
   opacity: 1;
   width: 50%;

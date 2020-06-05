@@ -8,6 +8,13 @@
   width: 100%;
 }
 
+.player-perfil i {
+  font-size: 50px;
+  cursor: pointer;
+  height: inherit;
+  color: #FF0084;
+}
+
 .player-perfil .player-img {
   width: 100%;
   height: 500px;

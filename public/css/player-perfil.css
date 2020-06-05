@@ -117,6 +117,8 @@
   position: relative;
   top: 50px;
   width: 150px;
+  display: flex;
+  flex-direction: column;
 }
 
 .player-perfil .main-skills input {

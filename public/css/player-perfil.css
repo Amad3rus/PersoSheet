@@ -13,6 +13,7 @@
   cursor: pointer;
   height: inherit;
   color: #FF0084;
+  display: flex;
 }
 
 .player-perfil .player-img {

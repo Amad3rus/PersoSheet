@@ -6,6 +6,8 @@
   width: 100%;
 }
 
+/* ICON */
+
 .player-perfil i {
   font-size: 50px;
   cursor: pointer;
@@ -13,12 +15,42 @@
   position: absolute;
 }
 
+/* IMG */
+
 .player-perfil .player-img {
   width: 100%;
   height: 450px;
   box-shadow: 0 0 10px #00000070;
   background: #1d1d22;
   border-bottom-right-radius: 100px;
+}
+
+.player-perfil .player-img img {
+  position: relative;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  left: 31%;
+  top: 15%;
+  box-shadow: 0 0 10px #00000070;
+  border: 4px solid #000;
+}
+
+/* NAME */
+
+.player-perfil .player-img input {
+  position: absolute;
+  top: 50%;
+  width: 200px;
+  left: 110px;
+  border: none;
+  outline: none;
+  font-size: 25px;
+  background: #1d1d22;
+  border-bottom: 1px solid #FF0084;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #fff;
 }
 
 /* H3 */
@@ -61,34 +93,4 @@
   letter-spacing: 5px;
   top: 35%;
   left: 71.5%;
-}
-
-/* IMG */
-
-.player-perfil .player-img img {
-  position: relative;
-  border-radius: 50%;
-  height: 150px;
-  width: 150px;
-  left: 31%;
-  top: 15%;
-  box-shadow: 0 0 10px #00000070;
-  border: 4px solid #000;
-}
-
-/* NAME */
-
-.player-perfil .player-img input {
-  position: absolute;
-  top: 50%;
-  width: 200px;
-  left: 110px;
-  border: none;
-  outline: none;
-  font-size: 25px;
-  background: #1d1d22;
-  border-bottom: 1px solid #FF0084;
-  text-align: center;
-  letter-spacing: 2px;
-  color: #fff;
 }

@@ -23,10 +23,12 @@
 
 .player-perfil .player-img h3 {
   position: absolute;
+  color: #fff;
 }
 
 .player-perfil .player-img span {
   position: absolute;
+  color: #fff;
 }
 
 .player-perfil .player-img img {

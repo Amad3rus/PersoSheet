@@ -38,9 +38,26 @@
 
 /* NAME */
 
-.player-perfil .player-img input {
+.player-perfil .player-img .name {
   position: absolute;
   top: 60%;
+  width: 200px;
+  left: 110px;
+  border: none;
+  outline: none;
+  font-size: 25px;
+  background: #1d1d22;
+  border-bottom: 1px solid #FF0084;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #fff;
+}
+
+/* SUBNAME */
+
+.player-perfil .player-img .subname {
+  position: absolute;
+  top: 80%;
   width: 200px;
   left: 110px;
   border: none;

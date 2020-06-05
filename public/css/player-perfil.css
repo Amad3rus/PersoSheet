@@ -45,6 +45,12 @@
   color: #fff;
 }
 
+.player-perfil .player-img .hp-title {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
+
 .player-perfil .player-img img {
   position: relative;
   border-radius: 50%;

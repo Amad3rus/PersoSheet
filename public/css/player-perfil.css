@@ -36,4 +36,8 @@
   position: absolute;
   top: 50%;
   right: 120px;
+  border: none;
+  outline: none;
+  font-size: 25px;
+  background: #1d1d22;
 }

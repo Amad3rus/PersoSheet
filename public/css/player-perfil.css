@@ -35,5 +35,5 @@
 .player-perfil .player-img input {
   position: absolute;
   top: 50%;
-  right: 50px;
+  left: 50px;
 }

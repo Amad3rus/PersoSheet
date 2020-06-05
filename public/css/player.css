@@ -10,5 +10,7 @@
 }
 
 .player-menu .player-sidebar {
-  
+  width: 40%;
+  height: 100%;
+  background: #1d1d22;
 }

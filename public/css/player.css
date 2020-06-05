@@ -34,7 +34,7 @@
 .player-menu .player-sidebar span {
   font-size: 20px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   cursor: pointer;
   height: 70px;

@@ -9,7 +9,6 @@
 .player-perfil i {
   font-size: 50px;
   cursor: pointer;
-  height: inherit;
   color: #FF0084;
   position: absolute;
 }

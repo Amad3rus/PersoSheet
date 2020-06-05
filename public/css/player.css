@@ -34,4 +34,5 @@
 .player-menu .player-sidebar span {
   font-size: 20px;
   cursor: pointer;
+  height: 100px;
 }

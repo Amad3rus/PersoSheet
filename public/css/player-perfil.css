@@ -2,8 +2,6 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   height: 100%;
   width: 100%;
 }
@@ -13,7 +11,7 @@
   cursor: pointer;
   height: inherit;
   color: #FF0084;
-  display: flex;
+  
 }
 
 .player-perfil .player-img {

@@ -6,7 +6,7 @@
 
 .player-menu i {
   font-size: 50px;
-  position: absolute;
+  position: relative;
   cursor: pointer;
 }
 

@@ -28,4 +28,9 @@
 .player-menu .player-sidebar h3 {
   font-size: 25px;
   padding-top: 10px;
+  letter-spacing: 3px;
+}
+
+.player-menu .player-sidebar span {
+  font-size: 20px;
 }

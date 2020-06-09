@@ -17,14 +17,6 @@
 
 /* IMG */
 
-.player-perfil .player-img {
-  width: 100%;
-  height: 350px;
-  box-shadow: 0 0 10px #00000070;
-  background: #1d1d22;
-  border-bottom-right-radius: 100px;
-}
-
 .player-perfil .player-img img {
   position: relative;
   border-radius: 50%;
